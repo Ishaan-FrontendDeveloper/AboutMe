@@ -13,7 +13,9 @@
 
 }
 
-
+body{
+overflow-y:hidden;
+}
 
 .container{
     animation:coolor 1s linear infinite;
@@ -42,7 +44,7 @@ ul{
     height:45vh;
     padding:10%;
     color:white;
-    font-size:75px;
+    font-size:80%;
     border-radius:50px;
     text-align:center;
 }
