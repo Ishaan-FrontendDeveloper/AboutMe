@@ -13,14 +13,11 @@
 
 }
 
-body{
-overflow-y:hidden;
-}
 
 .container{
     animation:coolor 1s linear infinite;
     background:linear-gradient(120deg,#ACF39D,#E85F5C,#9CFFFA);
-    height:130vh;
+    height:120vh;
     width:100%;
     display:flex;
     flex-direction:row;
