@@ -25,7 +25,7 @@
     justify-content:center;
     
 }
-@media(min-height:900px){
+@media(min-height:90vh){
      .container{height:100vh;}
 }
 a{
@@ -38,10 +38,10 @@ ul{
 .plas{
     background:#0e0e0e;
     width:50vw;
-    height:45vh;
+    height:30vh;
     padding:8%;
     color:white;
-    font-size:120%;
+    font-size:5vmin;
     border-radius:50px;
     text-align:center;
 }
